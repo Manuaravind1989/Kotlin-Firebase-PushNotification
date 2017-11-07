@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1070615954289",
+    "firebase_url": "https://kotlinfcm.firebaseio.com",
+    "project_id": "kotlinfcm",
+    "storage_bucket": "kotlinfcm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1070615954289:android:08d9726ff10c3123",
+        "android_client_info": {
+          "package_name": "com.recycler.fcmkotlinnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1070615954289-vl4ueai6729jqvp6p4atuqshac7kucon.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFS_CbVxtg-XmVeoVNJGx4H-yW-Zfg9CY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
